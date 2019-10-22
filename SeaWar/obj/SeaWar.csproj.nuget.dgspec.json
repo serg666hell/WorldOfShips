@@ -1,0 +1,110 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\gss2001\\source\\repos\\WorldOfShips\\SeaWar\\SeaWar.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\gss2001\\source\\repos\\WorldOfShips\\SeaWar.Domain\\SeaWar.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gss2001\\source\\repos\\WorldOfShips\\SeaWar.Domain\\SeaWar.Domain.csproj",
+        "projectName": "SeaWar.Domain",
+        "projectPath": "C:\\Users\\gss2001\\source\\repos\\WorldOfShips\\SeaWar.Domain\\SeaWar.Domain.csproj",
+        "packagesPath": "C:\\Users\\gss2001\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gss2001\\source\\repos\\WorldOfShips\\SeaWar.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gss2001\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\gss2001\\source\\repos\\WorldOfShips\\SeaWar\\SeaWar.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gss2001\\source\\repos\\WorldOfShips\\SeaWar\\SeaWar.csproj",
+        "projectName": "SeaWar",
+        "projectPath": "C:\\Users\\gss2001\\source\\repos\\WorldOfShips\\SeaWar\\SeaWar.csproj",
+        "packagesPath": "C:\\Users\\gss2001\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gss2001\\source\\repos\\WorldOfShips\\SeaWar\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gss2001\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\gss2001\\source\\repos\\WorldOfShips\\SeaWar.Domain\\SeaWar.Domain.csproj": {
+                "projectPath": "C:\\Users\\gss2001\\source\\repos\\WorldOfShips\\SeaWar.Domain\\SeaWar.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

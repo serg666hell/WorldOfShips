@@ -1,0 +1,8 @@
+C:\Users\gss2001\source\repos\WorldOfShips\SeaWar.Domain\bin\Debug\netcoreapp3.0\SeaWar.Domain.deps.json
+C:\Users\gss2001\source\repos\WorldOfShips\SeaWar.Domain\bin\Debug\netcoreapp3.0\SeaWar.Domain.dll
+C:\Users\gss2001\source\repos\WorldOfShips\SeaWar.Domain\bin\Debug\netcoreapp3.0\SeaWar.Domain.pdb
+C:\Users\gss2001\source\repos\WorldOfShips\SeaWar.Domain\obj\Debug\netcoreapp3.0\SeaWar.Domain.csprojAssemblyReference.cache
+C:\Users\gss2001\source\repos\WorldOfShips\SeaWar.Domain\obj\Debug\netcoreapp3.0\SeaWar.Domain.AssemblyInfoInputs.cache
+C:\Users\gss2001\source\repos\WorldOfShips\SeaWar.Domain\obj\Debug\netcoreapp3.0\SeaWar.Domain.AssemblyInfo.cs
+C:\Users\gss2001\source\repos\WorldOfShips\SeaWar.Domain\obj\Debug\netcoreapp3.0\SeaWar.Domain.dll
+C:\Users\gss2001\source\repos\WorldOfShips\SeaWar.Domain\obj\Debug\netcoreapp3.0\SeaWar.Domain.pdb

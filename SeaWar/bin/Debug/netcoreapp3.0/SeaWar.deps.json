@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "SeaWar/1.0.0": {
+        "dependencies": {
+          "SeaWar.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SeaWar.dll": {}
+        }
+      },
+      "SeaWar.Domain/1.0.0": {
+        "runtime": {
+          "SeaWar.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SeaWar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SeaWar.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

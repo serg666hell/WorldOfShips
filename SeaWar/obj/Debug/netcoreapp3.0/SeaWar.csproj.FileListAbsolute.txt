@@ -1,0 +1,16 @@
+C:\Users\gss2001\source\repos\WorldOfShips\SeaWar\bin\Debug\netcoreapp3.0\SeaWar.exe
+C:\Users\gss2001\source\repos\WorldOfShips\SeaWar\bin\Debug\netcoreapp3.0\SeaWar.deps.json
+C:\Users\gss2001\source\repos\WorldOfShips\SeaWar\bin\Debug\netcoreapp3.0\SeaWar.runtimeconfig.json
+C:\Users\gss2001\source\repos\WorldOfShips\SeaWar\bin\Debug\netcoreapp3.0\SeaWar.runtimeconfig.dev.json
+C:\Users\gss2001\source\repos\WorldOfShips\SeaWar\bin\Debug\netcoreapp3.0\SeaWar.dll
+C:\Users\gss2001\source\repos\WorldOfShips\SeaWar\bin\Debug\netcoreapp3.0\SeaWar.pdb
+C:\Users\gss2001\source\repos\WorldOfShips\SeaWar\bin\Debug\netcoreapp3.0\SeaWar.Domain.dll
+C:\Users\gss2001\source\repos\WorldOfShips\SeaWar\bin\Debug\netcoreapp3.0\SeaWar.Domain.pdb
+C:\Users\gss2001\source\repos\WorldOfShips\SeaWar\obj\Debug\netcoreapp3.0\SeaWar.csprojAssemblyReference.cache
+C:\Users\gss2001\source\repos\WorldOfShips\SeaWar\obj\Debug\netcoreapp3.0\SeaWar.AssemblyInfoInputs.cache
+C:\Users\gss2001\source\repos\WorldOfShips\SeaWar\obj\Debug\netcoreapp3.0\SeaWar.AssemblyInfo.cs
+C:\Users\gss2001\source\repos\WorldOfShips\SeaWar\obj\Debug\netcoreapp3.0\SeaWar.csproj.CopyComplete
+C:\Users\gss2001\source\repos\WorldOfShips\SeaWar\obj\Debug\netcoreapp3.0\SeaWar.dll
+C:\Users\gss2001\source\repos\WorldOfShips\SeaWar\obj\Debug\netcoreapp3.0\SeaWar.pdb
+C:\Users\gss2001\source\repos\WorldOfShips\SeaWar\obj\Debug\netcoreapp3.0\SeaWar.Form1.resources
+C:\Users\gss2001\source\repos\WorldOfShips\SeaWar\obj\Debug\netcoreapp3.0\SeaWar.csproj.GenerateResource.cache
